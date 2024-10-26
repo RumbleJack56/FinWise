@@ -18,5 +18,3 @@ async def hit_od(data : str):
 async def read_od():
     
     return {"data": "last_data"}
-    
-    
